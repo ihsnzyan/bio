@@ -39,6 +39,8 @@ body {
     height: 40vw;
     max-height: 280px;
     min-height: 120px;
+max-width: 280px;
+min-width: 120px;
     box-shadow: 10px:#1E1E2E;
 }
 .desk{
