@@ -121,6 +121,7 @@ header {
   h2 {
   font-size: 15px; }
 
+  header {height: 70px;}
     .info {font-size: 9px;}
 .info div {
   grid-template-columns: 50px 1fr;
